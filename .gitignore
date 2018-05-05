@@ -7,3 +7,7 @@
 build/
 
 .flutter-plugins
+.idea/libraries/Flutter_for_Android.xml
+.idea/libraries/Dart_SDK.xml
+.idea/libraries/Dart_Packages.xml
+.idea/workspace.xml
